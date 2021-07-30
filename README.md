@@ -43,7 +43,7 @@
 ## Limitasi Program
 
 * Program ini hanya dapat digunakan one-time-use sehingga untuk data input berikutnya harus dijalankan kembali melalui terminal
-* Jika terjadi kegagalan pada saat menjalankan program, program tidak dapat mengulang ke posisi sebelum terjadi ke gagalan secara otomatis
+* Jika terjadi kegagalan pada saat menjalankan program, program tidak dapat mengulang ke posisi sebelum terjadi kegagalan secara otomatis
 
 
 
