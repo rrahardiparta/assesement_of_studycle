@@ -24,6 +24,24 @@
 | --- | --- |
 | [Values] | Deretan angka untuk diproses dengan separator spasi |
 
+## Contoh Penggunaan
+
+* Pada bagian input:
+  ```
+  $ python main.py 3 7 2 1 8
+  ```
+
+* Pada bagian Output
+  ```
+        data input:  3 7 2 1 8
+        data pengurutan:  1 2 3 7 8
+        rata-rata data:  4.2
+        nilai tengah data:  3
+        hasil kali keseluruhan data:  336
+
+  ```
+
+
 
 
 
