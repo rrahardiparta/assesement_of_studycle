@@ -12,7 +12,6 @@
 * Arahkan directory ke tempat yang diinginkan untuk menyimpan repository ini
 * Jalankan command dibawah ini:
   ```
-  # Clone repository ini
   $ git clone https://github.com/rrahardiparta/assesement_of_studycle.git
   ```
 * Arahkan dirctorynya kembali ke dalam ``` assesement_of_studycle ```
